@@ -9,7 +9,7 @@ from rest_framework_simplejwt.tokens import AccessToken
 # Create your views here.
 
 
-
+# this is login API
 class LoginAPI(generics.GenericAPIView):
     # authentication_classes = [JWTAuthentication]
     # permission_classes = [IsAuthenticated]
