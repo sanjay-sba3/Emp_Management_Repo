@@ -1,1 +1,16 @@
 /employee_management/user/migrations/
+employee_management/employee_management/__pycache__/__init__.cpython-310.pyc
+employee_management/employee_management/__pycache__/__init__.cpython-310.pyc
+employee_management/employee_management/__pycache__/__init__.cpython-310.pyc
+employee_management/employee_management/__pycache__/__init__.cpython-310.pyc
+employee_management/employee_management/__pycache__/settings.cpython-310.pyc
+employee_management/employee_management/__pycache__/urls.cpython-310.pyc
+employee_management/employee_management/__pycache__/wsgi.cpython-310.pyc
+employee_management/user/__pycache__/__init__.cpython-310.pyc
+employee_management/user/__pycache__/admin.cpython-310.pyc
+employee_management/user/__pycache__/apps.cpython-310.pyc
+employee_management/user/models/__pycache__/__init__.cpython-310.pyc
+employee_management/user/__pycache__/urls.cpython-310.pyc
+employee_management/user/models/__pycache__/user_models.cpython-310.pyc
+employee_management/user/serializers/__pycache__/user_serializer.cpython-310.pyc
+employee_management/user/views/__pycache__/views.cpython-310.pyc
