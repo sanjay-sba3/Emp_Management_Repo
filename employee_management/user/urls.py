@@ -17,9 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.urls import include
-from .views.views import LoginAPI
+from .views.views import LoginAPI, UserAPIView
 
 urlpatterns = [
     path('login/', LoginAPI.as_view(), name = 'login'),
+    path('user/', UserAPIView.as_view(), name = "user")
     
 ]
