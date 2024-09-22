@@ -51,9 +51,8 @@ class LoginAPI(generics.GenericAPIView):
 
 
 class UserAPIView(generics.GenericAPIView):
-    # authentication_classes = [JWTAuthentication]
-    # permission_classes = [IsAuthenticated]
-
+    authentication_classes = [JWTAuthentication]
+    permission_classes = [IsAuthenticated]
 
     def get(self, request):
         
